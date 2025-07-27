@@ -2,7 +2,7 @@
 
 Welcome to my 100-day coding journey where I'm combining two powerful learning paths:
 - 👩‍🏫 [**100 Days of Code: The Complete Python Pro Bootcamp for 2023**](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu  
-- 🌍 *Introduction to GIS Programming* and other resources by Qiusheng Wu (geospatial developer and educator)
+- 🌍 *Introduction to GIS Programming* and other resources by Dr. Qiusheng Wu 
 
 ## 🎯 Goal
 
@@ -26,8 +26,9 @@ Each day of this challenge will be stored in its own folder with:
 ## 🌐 Connect With Me
 
 - 🌐 GitHub: [your-username]
-- 💼 LinkedIn: [your-linkedin]
-- 🐦 Twitter/X: [your-handle] (if applicable)
+- 💼 LinkedIn: https://www.linkedin.com/in/mst-malihatun-nesa-107245342/
+- 🐦 Twitter/X: https://x.com/71_Maliha
+- 💻 Personal Website: https://sites.google.com/view/mst-malihatun-nesa/home
 
 ---
 
