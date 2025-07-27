@@ -25,7 +25,7 @@ Each day of this challenge will be stored in its own folder with:
 
 ## 🌐 Connect With Me
 
-- 🌐 GitHub: [your-username]
+- 🌐 GitHub: Maliha71
 - 💼 LinkedIn: https://www.linkedin.com/in/mst-malihatun-nesa-107245342/
 - 🐦 Twitter/X: https://x.com/71_Maliha
 - 💻 Personal Website: https://sites.google.com/view/mst-malihatun-nesa/home
