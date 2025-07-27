@@ -32,5 +32,5 @@ Each day of this challenge will be stored in its own folder with:
 
 ---
 
-> 💬 *Learning in public is the best accountability system. Let's go — one day, one commit at a time.*  
+> 💬 *Learning in public is the best accountability system. Let's go - one day, one commit at a time.*  
 > — #100DaysOfCode #Python #RemoteSensing #GIS #AngelaYu #QiushengWu
