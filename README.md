@@ -1,2 +1,35 @@
-# 100Days_Of_Code-Python-
-My 100 Days of Code journey combining Python fundamentals (Angela Yu) and geospatial programming (Qiusheng Wu) using libraries like geemap, Earth Engine, and more.
+# 🐍 100 Days of Python – Core Programming + Geospatial Journey
+
+Welcome to my 100-day coding journey where I'm combining two powerful learning paths:
+- 👩‍🏫 [**100 Days of Code: The Complete Python Pro Bootcamp for 2023**](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu  
+- 🌍 *Introduction to GIS Programming* and other resources by Qiusheng Wu (geospatial developer and educator)
+
+## 🎯 Goal
+
+To build strong foundations in Python programming and apply those skills in **Remote Sensing** and **GIS (Geographic Information Systems)**.
+
+Each day of this challenge will be stored in its own folder with:
+- ✔️ Python code (`main.py`, Jupyter Notebooks, etc.)
+- 📘 A `README.md` file with summaries, challenges, and reflections
+---
+
+## 📅 Progress Tracker
+
+| Day | Topic / Exercise Source                          | Status     |
+|-----|--------------------------------------------------|------------|
+| 1   | Printing Practice (Angela Yu - Day 1)                  | ✅ Completed |
+| 2   |              | 🔜 Upcoming |
+| 3   |                    | 🔜 Upcoming |
+| ... | ...                                                      | ...        |
+
+
+## 🌐 Connect With Me
+
+- 🌐 GitHub: [your-username]
+- 💼 LinkedIn: [your-linkedin]
+- 🐦 Twitter/X: [your-handle] (if applicable)
+
+---
+
+> 💬 *Learning in public is the best accountability system. Let's go — one day, one commit at a time.*  
+> — #100DaysOfCode #Python #RemoteSensing #GIS #AngelaYu #QiushengWu
