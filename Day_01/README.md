@@ -1,4 +1,4 @@
-# Day 1 – Printing Practice (Dr. Angela Yu)
+# Day 1 – Environment Set Up and Basic Functions
 
 ### ⚙️ Python Environment Setup in VS Code
 
