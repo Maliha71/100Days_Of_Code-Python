@@ -17,8 +17,8 @@ Each day of this challenge will be stored in its own folder with:
 
 | Day | Topic / Exercise Source                          | Status     |
 |-----|--------------------------------------------------|------------|
-| 1   | Printing Practice (Angela Yu - Day 1)                  | ✅ Completed |
-| 2   |              | 🔜 Upcoming |
+| 1   | VS Code and Python Install, Environment Setup (Day 1)                  | ✅ Completed |
+| 2   | Data Structure ( Day 2)        | ✅ Completed  |
 | 3   |                    | 🔜 Upcoming |
 | ... | ...                                                      | ...        |
 
