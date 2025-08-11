@@ -19,7 +19,7 @@ Each day of this challenge will be stored in its own folder with:
 |-----|--------------------------------------------------|------------|
 | 1   | VS Code and Python Install, Environment Setup (Day 1)                  | ✅ Completed |
 | 2   | Data Structure ( Day 2)        | ✅ Completed  |
-| 3   |                    | 🔜 Upcoming |
+| 3   | String Operations (Day 3)                    | ✅ Completed  |
 | ... | ...                                                      | ...        |
 
 
